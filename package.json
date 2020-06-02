@@ -6,6 +6,9 @@
   "repository": "https://github.com/wdesportes/git-bisect-node-easy.git",
   "license": "MPL-2.0",
   "private": true,
+  "scripts": {
+    "prettier": "prettier --write \"*/**/*.js\" \"*.js\""
+  },
   "bin": {
     "say-moo": "bin/program.js"
   },
