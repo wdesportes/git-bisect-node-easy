@@ -7,4 +7,4 @@
              U  ||----w |
                 ||     ||
 """""""""""""""""""""""""""""""""""
-https://github.com/piuccio/cowsay#readme
+https://github.com/piuccio/cowsay
