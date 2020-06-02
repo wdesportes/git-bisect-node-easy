@@ -1,0 +1,9 @@
+{
+  "name": "@wdesportes/git-bisect-node-easy",
+  "version": "1.0.0",
+  "description": "A repo to try git bisect",
+  "main": "index.js",
+  "repository": "https://github.com/wdesportes/git-bisect-node-easy.git",
+  "license": "MPL-2.0",
+  "private": true
+}
